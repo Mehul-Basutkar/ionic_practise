@@ -1,0 +1,7 @@
+{
+  "name": "itry",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
